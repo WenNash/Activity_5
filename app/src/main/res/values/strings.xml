@@ -1,6 +1,20 @@
 <resources>
     <string name="app_name">ConstraintLayout</string>
+    <string name="var1">ini pesan</string>
     <string name="tEmail">Email</string>
     <string name="tPassword">Password</string>
     <string name="bsignin">Sign-In</string>
+    <string name="tData">Data Anda</string>
+    <string name="tLogin">LOGIN</string>
+    <string name="txemail">Email: </string>
+    <string name="txpassword">Password: </string>
+    <string name="label2">login</string>
+    <string name="mDaftar">Pendaftaran</string>
+    <string name="ldaftar">Daftar</string>
+    <string name="enama">Masukkan Nama</string>
+    <string name="eemail">Masukkan Email</string>
+    <string name="epass">Masukkan Password</string>
+    <string name="erepass">Masukkan Password</string>
+    <string name="ealamat">Masukkan Alamat</string>
+
 </resources>
